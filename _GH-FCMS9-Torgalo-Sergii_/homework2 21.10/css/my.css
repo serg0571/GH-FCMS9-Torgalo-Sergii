@@ -1,0 +1,44 @@
+body{
+  margin-left: 80px;
+  margin-right: 80px;
+  font-size: 16px;
+}
+h1{
+  text-align: center;
+  font-size:20px
+}
+  
+.athtors{
+  font-style: italic;
+  text-align: center;
+}
+.microsoft{
+  text-align: center;
+  font-weight: 900;
+}
+.People {
+	font-weight: 900;
+}
+
+
+.example{
+	font-style: italic;
+	text-align: center;
+}
+.fly{
+  float:left; 
+  padding-right: 5%
+}
+.textright{
+  
+ font-weight: 600;
+}
+
+.Centralized{
+	font-style: italic;
+	text-align: right;
+}
+
+.mouse{
+  text-align: center;	
+}
