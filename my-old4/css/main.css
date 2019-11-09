@@ -1,0 +1,47 @@
+.google {
+    float: left;
+    display: block;
+    height: 1000px;
+    border: 1px solid blue;
+    margin: 2px;
+}
+.enter{
+
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 900px;
+    border: 1px solid blue;
+    margin: 2px;
+    margin-left: 21%;
+}
+input:focus{
+    color: red;
+}
+.books{
+    font-weight: 600;
+    padding-left:20%;
+}
+.foto{
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-right:3%;
+    margin-left: 21%;
+    margin-bottom: 3%;
+}
+.pade
+{
+    height: 120px;
+    margin-right: 5%;
+    margin-left: 21%;
+    margin-top: 3%;
+   padding-left:5%;
+    width: 50%;
+    border: 1px solid black;
+}
+.flex-container{
+    display: flex;
+}
+.flex-element{
+align-self: center;
+}

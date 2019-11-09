@@ -1,0 +1,76 @@
+body {
+  display: flex;
+  border: 1px solid black;
+  font-size: 18px;
+}
+
+.google {
+  font-weight: 15%
+  flex-direction: column;
+  border: 1px solid black;
+}
+.text1 {
+  border: 2px solid grey;
+  border-radius: 20px;
+  text-align: center;
+  margin-left: 2%;
+  width: 600px;
+  height: 40px;
+}
+
+.enter {
+  border: 1px solid black;
+  border-radius: 20px;
+
+#icon{
+  border: 15px solid red;
+  margin: 20%;
+}
+}
+
+.flex-container {
+  flex-direction: column;
+  border: 1px solid black;
+}
+
+.books {
+  font-weight: 600;
+  padding-left: 20%;
+  margin-top: 20%;
+}
+
+.foto {
+  margin: 2%;
+  border: 1px solid black;
+  flex-wrap: nowrap;
+}
+
+.pade {
+  margin-top: 3%;
+  margin-right: 30%;
+  margin-left: 2%;
+  border: 1px solid black;
+}
+
+.text {
+  border: 2px solid blue;
+  text-align: center;
+  margin-left: 2%;
+  width: 600px;
+  height: 20px;
+
+strong {
+  font-size: 20px;
+}
+#r {
+  size: 20px;
+  color: blue;
+}
+
+.fd {
+  flex-flow: row;
+  justify-content: space-between;
+
+}
+
+
